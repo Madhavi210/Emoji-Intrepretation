@@ -1,0 +1,19 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  h1 {
+    background-color: hsl(138, 43%, 67%);
+    color: #3a570d;
+    border-radius: 1rem;
+    border-bottom: 2px solid;
+    margin: auto;
+    padding: 20px 0;
+  }
+  h3 {
+    color: hsl(52, 84%, 29%);
+  }
+  body {
+    background-color: hsl(116, 13%, 79%);
+  }
+  
